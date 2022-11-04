@@ -5,20 +5,26 @@ This app is made over react native , it runs on both android and ios , and all t
 
 ## 📚 Tools and languages :
 
-* JavaScript
-* Node.js
-* Express.js
-* Mongodb
-* react-native
+<p>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
+<img align="left" alt="Express.js" width="45px" style="padding-right:10px;" src="https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png"/>
+<img align="left" alt="Mongodb.js" width="45px" style="padding-right:10px;" src="https://umangsoftware.com/wp-content/uploads/2020/05/MongoDB-logo.png"/>
+<img align="left" alt="React native" width="45px" style="padding-right:10px;" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"/>
+
+</p>
+<br>
+
 
 ## 📐 Functionnalities 
 
 * Login
 * Register
-* add a task
-* update a task
-* delete a task
-* mark a task as completed
+* Logout
+* Add a task
+* Update a task
+* Delete a task
+* Mark a task as completed
 
 ## 📲 screenshots
 
@@ -28,4 +34,4 @@ This app is made over react native , it runs on both android and ios , and all t
 
 you can contact me via my email : wassim.elbakkouri@yahoo.com
 
-Please leave me a star🌟 !
+# **DON'T FORGET TO LEAVE ME A STAR🌟 !**
